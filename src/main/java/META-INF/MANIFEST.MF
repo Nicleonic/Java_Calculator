@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: com.example.calctwo.Main
+Class-Path: javafx-graphics-19-ea+3-win.jar javafx-base-19-ea+3-win.jar 
+ javafx-fxml-19-ea+3-win.jar junit-jupiter-engine-5.8.2.jar apiguardian-
+ api-1.1.2.jar javafx-graphics-19-ea+3.jar junit-platform-engine-1.8.2.j
+ ar junit-jupiter-api-5.8.2.jar opentest4j-1.2.0.jar javafx-fxml-19-ea+3
+ .jar javafx-controls-19-ea+3-win.jar junit-platform-commons-1.8.2.jar j
+ avafx-controls-19-ea+3.jar javafx-base-19-ea+3.jar
+
